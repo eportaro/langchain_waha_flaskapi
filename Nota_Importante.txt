@@ -1,0 +1,6 @@
+Este proyecto trabaja con el entorno virtual con:
+- Python 3.10
+
+Comandos para correr el docker-compose.yml:
+- docker-compose up --build waha
+- docker-compose up --build api
